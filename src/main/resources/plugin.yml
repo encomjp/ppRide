@@ -1,0 +1,5 @@
+name: PpRide
+version: ${project.version}
+main: com.pepe.ppride.PpRide
+api-version: 1.16
+authors: [ EuropeanPepe ]
